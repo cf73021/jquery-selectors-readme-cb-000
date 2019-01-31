@@ -1,4 +1,4 @@
 // declare your functions here...
-$(function lastImageSelector({
+$(function lastImageSelector(){
 
-}))
+})
